@@ -1,4 +1,4 @@
-# My_Neural_Network_Library
+# Deep Learning Library
 
 This is a currently ongoing project where I am building the building blocks of deep reinforcement learning from scratch, starting with the Neural Networks. 
 This repository currently has:
